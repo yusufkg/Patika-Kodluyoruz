@@ -1,0 +1,37 @@
+h1{
+    text-align: center; 
+    color: #dd1ead ;
+}
+
+h2{
+    text-align: center;
+    padding-top: 35px;
+    color: #a440b8;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#altbaslik{
+    margin-top: 30px;
+    text-align: center;
+    color: #e6a10e;
+    font-family:Arial, Helvetica, sans-serif; 
+    font-weight:bold ;
+}
+
+#menu{
+    margin-left: 470px;
+    list-style-type:none;
+}
+
+#menu li{
+    float: left;
+    padding-left: 25px;
+}
+
+h3{
+    margin-top: 30px;
+    text-align: center;
+    color: #e6a10e;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bold;
+}

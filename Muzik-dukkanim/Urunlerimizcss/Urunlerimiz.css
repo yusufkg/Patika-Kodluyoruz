@@ -1,0 +1,29 @@
+h1{
+    text-align: center; 
+    color: #dd1ead ;
+}
+
+h2{
+    text-align: center;
+    padding-top: 35px;
+    color: #a440b8;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#menu{
+    margin-left: 470px;
+    list-style-type:none;
+}
+
+#menu li{
+    float: left;
+    padding-left: 15px;
+}
+ol li{
+    text-align: center;
+}
+ol li img{
+    width: 240px;
+    height: 240px;
+    margin-top: 100px;
+}

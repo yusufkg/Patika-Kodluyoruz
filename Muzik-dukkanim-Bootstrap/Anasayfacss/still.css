@@ -1,0 +1,22 @@
+body{
+    background-color: #E9ECEF;
+}
+
+center{
+    margin: auto;
+    padding-top: 5px;
+    border-radius: 5px;
+    border: solid;
+    color: azure;
+    background-color: rgb(65, 65, 214);
+    width: 120px;
+    height: 40px;
+}
+
+center:hover{
+    background-color: rgb(92, 92, 230);
+}
+
+center:focus{
+    border:none;
+}
